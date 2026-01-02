@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "fa5dc87d7515aad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bec4d5d7d0e0ae6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8617e1e15b9d1c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/数据结构与算法/2.链表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.链表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c175627efb81d285",
+    "type": "split",
+    "children": [
+      {
+        "id": "aae5ff1bb3fbd097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab2c62e5c1f9095f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fe16a1956de0d64b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7c1de364c2c8d4c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66d6332ae040606a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99668567f8137871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c23293e5fc2e1bcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习计划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "学习计划 的反向链接列表"
+            }
+          },
+          {
+            "id": "91e66ee28a43ba7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习计划.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "学习计划 的出链列表"
+            }
+          },
+          {
+            "id": "9c151391e895df9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f5ff6b5207f58399",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "88efc332156c0775",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习计划.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "学习计划 的大纲"
+            }
+          },
+          {
+            "id": "08dd868130865f73",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8617e1e15b9d1c17",
+  "lastOpenFiles": [
+    "C语言/数据结构与算法/1.数据结构基础认知与必要知识.md",
+    "AutoSAR/ETH.md",
+    "C语言/数据结构与算法/2.链表.md",
+    "学习计划.md",
+    "总览.md",
+    "Pasted image 20251224005542.png",
+    "Pasted image 20251224005218.png",
+    "Pasted image 20251224004836.png",
+    "Pasted image 20251223234425.png",
+    "未命名 1.base",
+    "未命名 2.base",
+    "未命名.base",
+    "C语言/数据结构与算法",
+    "未命名",
+    "AutoSAR",
+    "C语言",
+    "总览 1.md",
+    "未命名.canvas"
+  ]
+}
