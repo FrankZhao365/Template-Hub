@@ -2,5 +2,8 @@
   "obsidian-tasks-plugin",
   "calendar",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "colored-text",
+  "highlightr-plugin",
+  "editing-toolbar"
 ]
