@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutoSAR/UDS(DoCAN-Diagnostic communication over Controller Area Network).md",
+                "file": "AutoSAR/DoIP（Diagnostic Communication over Internet Protocol）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UDS(DoCAN-Diagnostic communication over Controller Area Network)"
+              "title": "DoIP（Diagnostic Communication over Internet Protocol）"
             }
           }
         ]
@@ -184,37 +184,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "8617e1e15b9d1c17",
   "lastOpenFiles": [
+    "Pasted image 20260113210942.png",
+    "AutoSAR/SoAd.md",
     "AutoSAR/SomIP and ServiceDiscovery（SD）.md",
     "AutoSAR/UDS(DoCAN-Diagnostic communication over Controller Area Network).md",
-    "AutoSAR/ETH.md",
-    "2026-01-09.md",
-    "未命名.canvas",
-    "Pasted image 20260108165038.png",
-    "C语言/数据结构与算法/2.链表.md",
     "C语言/数据结构与算法/1.数据结构基础认知与必要知识.md",
+    "C语言/数据结构与算法/2.链表.md",
+    "AutoSAR/DoIP（Diagnostic Communication over Internet Protocol）.md",
+    "Picture·",
+    "Picture·/Pasted image 20260113210145.png",
+    "Picture·/Pasted image 20260113204039.png",
+    "Picture·/Pasted image 20260113203441.png",
+    "IMS/IMS NM State Flow.canvas",
+    "IMS/IMS.md",
     "学习计划.md",
+    "未命名.base",
+    "IMS/未命名.base",
+    "IMS/未命名.md",
+    "IMS",
+    "2026-01-13.md",
     "总览.md",
-    "Pasted image 20251224005542.png",
-    "Pasted image 20251224005218.png",
-    "Pasted image 20251224004836.png",
-    "Pasted image 20251223234425.png",
+    "2026-01-09.md",
+    "Picture·/Pasted image 20260108165038.png",
+    "Picture·/Pasted image 20251224005542.png",
+    "Picture·/Pasted image 20251224005218.png",
+    "Picture·/Pasted image 20251224004836.png",
+    "Picture·/Pasted image 20251223234425.png",
     "未命名 1.base",
     "未命名 2.base",
-    "未命名.base",
     "C语言/数据结构与算法",
-    "未命名",
     "AutoSAR",
     "C语言",
     "总览 1.md"
