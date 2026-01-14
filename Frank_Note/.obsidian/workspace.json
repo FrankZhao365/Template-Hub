@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutoSAR/DoIP（Diagnostic Communication over Internet Protocol）.md",
+                "file": "AutoSAR/NM（Network Management）/NM（Network Management）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DoIP（Diagnostic Communication over Internet Protocol）"
+              "title": "NM（Network Management）"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 643.5
   },
   "right": {
     "id": "66d6332ae040606a",
@@ -196,19 +196,25 @@
   },
   "active": "8617e1e15b9d1c17",
   "lastOpenFiles": [
-    "Pasted image 20260113210942.png",
-    "AutoSAR/SoAd.md",
+    "AutoSAR/NM（Network Management）/NM State Flow.canvas",
+    "AutoSAR/NM（Network Management）/NM（Network Management）.md",
+    "AutoSAR/DoIP（Diagnostic Communication over Internet Protocol）.md",
+    "AutoSAR/SoAd（Socket Adapter）.md",
     "AutoSAR/SomIP and ServiceDiscovery（SD）.md",
     "AutoSAR/UDS(DoCAN-Diagnostic communication over Controller Area Network).md",
+    "Picture·/Pasted image 20260114140245.png",
+    "2026-01-14.md",
+    "IMS/IMS.md",
+    "AutoSAR/NM（Network Management）/未命名.canvas",
+    "AutoSAR/NM（Network Management）",
+    "Picture·/Pasted image 20260114093151.png",
+    "Picture·/Pasted image 20260113210942.png",
     "C语言/数据结构与算法/1.数据结构基础认知与必要知识.md",
     "C语言/数据结构与算法/2.链表.md",
-    "AutoSAR/DoIP（Diagnostic Communication over Internet Protocol）.md",
     "Picture·",
     "Picture·/Pasted image 20260113210145.png",
     "Picture·/Pasted image 20260113204039.png",
     "Picture·/Pasted image 20260113203441.png",
-    "IMS/IMS NM State Flow.canvas",
-    "IMS/IMS.md",
     "学习计划.md",
     "未命名.base",
     "IMS/未命名.base",
@@ -221,7 +227,6 @@
     "Picture·/Pasted image 20251224005542.png",
     "Picture·/Pasted image 20251224005218.png",
     "Picture·/Pasted image 20251224004836.png",
-    "Picture·/Pasted image 20251223234425.png",
     "未命名 1.base",
     "未命名 2.base",
     "C语言/数据结构与算法",
