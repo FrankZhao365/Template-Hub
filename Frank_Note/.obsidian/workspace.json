@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Production/IMS/FAW IMS & BBS/SDB集成.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SDB集成"
+            }
+          },
+          {
+            "id": "c0f59c7ef1f0d32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "AutoSAR/NM（Network Management）/NM（Network Management）.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "NM（Network Management）"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 643.5
+    "width": 352.5
   },
   "right": {
     "id": "66d6332ae040606a",
@@ -194,44 +209,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8617e1e15b9d1c17",
+  "active": "c0f59c7ef1f0d32b",
   "lastOpenFiles": [
     "AutoSAR/NM（Network Management）/NM State Flow.canvas",
     "AutoSAR/NM（Network Management）/NM（Network Management）.md",
+    "AutoSAR/UDS（DoCAN-Diagnostic communication over Controller Area Network）.md",
+    "AutoSAR/CAN（Controller Area Network）.md",
+    "Production/IMS/IMS General.md",
+    "学习计划.md",
+    "Production/IMS/FAW IMS & BBS/Simple NM.md",
+    "Production/IMS/FAW IMS & BBS/SDB集成.md",
     "AutoSAR/DoIP（Diagnostic Communication over Internet Protocol）.md",
     "AutoSAR/SoAd（Socket Adapter）.md",
     "AutoSAR/SomIP and ServiceDiscovery（SD）.md",
-    "AutoSAR/UDS(DoCAN-Diagnostic communication over Controller Area Network).md",
+    "Picture·/Pasted image 20260122200906.png",
+    "Picture·/Pasted image 20260122200853.png",
+    "Picture·/Pasted image 20260122200833.png",
+    "Production/IMS/FAW IMS & BBS/NM Statue Flow.canvas",
+    "Picture·/Pasted image 20260115105620.png",
+    "Picture·/Pasted image 20260115105113.png",
+    "Picture·/Pasted image 20260115104821.png",
+    "C语言/数据结构与算法/1.数据结构基础认知与必要知识.md",
+    "Production/IMS/FAW IMS & BBS",
+    "Production",
+    "AutoSAR/未命名",
+    "总览.md",
     "Picture·/Pasted image 20260114140245.png",
     "2026-01-14.md",
-    "IMS/IMS.md",
     "AutoSAR/NM（Network Management）/未命名.canvas",
     "AutoSAR/NM（Network Management）",
     "Picture·/Pasted image 20260114093151.png",
     "Picture·/Pasted image 20260113210942.png",
-    "C语言/数据结构与算法/1.数据结构基础认知与必要知识.md",
     "C语言/数据结构与算法/2.链表.md",
     "Picture·",
     "Picture·/Pasted image 20260113210145.png",
-    "Picture·/Pasted image 20260113204039.png",
-    "Picture·/Pasted image 20260113203441.png",
-    "学习计划.md",
     "未命名.base",
     "IMS/未命名.base",
     "IMS/未命名.md",
-    "IMS",
+    "Production/IMS",
     "2026-01-13.md",
-    "总览.md",
     "2026-01-09.md",
-    "Picture·/Pasted image 20260108165038.png",
-    "Picture·/Pasted image 20251224005542.png",
-    "Picture·/Pasted image 20251224005218.png",
-    "Picture·/Pasted image 20251224004836.png",
     "未命名 1.base",
     "未命名 2.base",
-    "C语言/数据结构与算法",
-    "AutoSAR",
-    "C语言",
     "总览 1.md"
   ]
 }
